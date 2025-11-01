@@ -4,7 +4,7 @@
 
 Turn any emoji into a favicon for your Micro.blog – no image files needed.
 
-Uses [EmojiCDN](https://emojicdn.elk.sh) to serve PNG favicons in multiple sizes. Works in all browsers including Safari. Forked fron [Faviconique](https://micro.blog/account/plugins/view/141) by Sven Dahlstrand.
+Uses [EmojiCDN](https://emojicdn.elk.sh) to serve PNG favicons in multiple sizes. Works in all browsers including Safari. Forked from [Faviconique](https://micro.blog/account/plugins/view/141) by Sven Dahlstrand.
 
 ## Settings
 
