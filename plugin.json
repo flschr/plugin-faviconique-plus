@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2",
-  "title": "Faviconique+",
-  "description": "Emoji favicon via EmojiCDN with web app manifest for installs.",
+  "version": "0.2.3",
+  "title": "Faviconique plus",
+  "description": "Emoji favicon via EmojiCDN for every browser.",
   "fields": [
     {
       "field": "params.faviconique_emoji",
