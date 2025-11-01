@@ -22,7 +22,6 @@ Faviconique+ is a Micro.blog plug‑in that takes one emoji and serves it as PNG
   - Sets `apple-mobile-web-app-title` and `application-name`
 - 🎨 **Theme color** for browser UI (Android/desktop browsers, Windows tiles)
   - Sets `theme-color` and `msapplication-TileColor`
-  - 
 ---
 
 ## Configure
