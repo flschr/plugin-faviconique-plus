@@ -6,7 +6,7 @@ Uses [EmojiCDN](https://emojicdn.elk.sh) to serve PNG favicons in multiple sizes
 
 ## Settings
 
-Go to **Plugins → Faviconique+ → Settings**:
+Go to **Plugins → Faviconique plus → Settings**:
 
 - **Emoji** – e.g. `🌱`
 - **Emoji style** – `apple`, `twitter`, `facebook`, or `google`
